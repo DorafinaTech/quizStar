@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is the correct way to create an object called myObj of a class called MyClass in Java?",
+        "2": "Which method can be used to find the length of a string in Java?",
+        "3": "What is the entry point of a Java program?",
+        "4": "Which of the following is a valid declaration of a char in Java?",
+        "5": "What is the correct file extension for Java files?",
+        "6": "How do you insert comments in a Java program?",
+        "7": "Which keyword is used to create a subclass in Java?",
+        "8": "What does the interface keyword do in Java? ",
+        "9": "How do you handle exceptions in Java?",
+        "10": "What is the purpose of the final keyword in Java?"
+    },
+    {
+        "1": {
+            "a": "MyClass myObj = new MyClass();",
+            "b": "BOTH",
+            "c": "MyClass();",
+            "d": "FALSE"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "MyClass",
+            "c": "length()",
+            "d": "find"
+        },
+        "3": {
+            "a": "func",
+            "b": "public static void main(String[] args)",
+            "c": "void",
+            "d": "void main"
+        },
+        "4": {
+            "a": "cout",
+            "b": "char ch = 'A';",
+            "c": "ch = 'A';",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "kotlin",
+            "c": ".java",
+            "d": "find"
+        },
+        "6": {
+            "a": "func",
+            "b": "// for single line comments, /* */ for multi-line comments",
+            "c": "void",
+            "d": "/* */ for multi-line comments"
+        },
+        "7": {
+            "a": "java keyword",
+            "b": "typeof",
+            "c": "extends",
+            "d": "find"
+        },
+        "8": {
+            "a": "an Interface is a show to what is displaying.",
+            "b": "def",
+            "c": "void",
+            "d": "It is used to define a contract for classes that implement it, specifying methods that must be implemented"
+        },
+        "9": {
+            "a": "Using try and catch blocks.",
+            "b": "typeof",
+            "c": "try and catch",
+            "d": "find"
+        },
+        "10": {
+            "a": " overriding",
+            "b": "def",
+            "c": "void",
+            "d": "To declare constants, prevent method overriding, and prevent inheritance of a class."
+        }
+    },
+    {
+        "1": "MyClass myObj = new MyClass();",
+        "2": "type",
+        "3": "def",
+        "4": "char ch = 'A';",
+        "5": "java",
+        "6": "// for single line comments, /* */ for multi-line comments",
+        "7": "extends",
+        "8": "It is used to define a contract for classes that implement it, specifying methods that must be implemented",
+        "9": "Using try and catch blocks.",
+        "10": "To declare constants, prevent method overriding, and prevent inheritance of a class."
+    }
+]

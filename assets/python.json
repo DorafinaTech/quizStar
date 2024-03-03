@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What Will Be The Output Of the Following Code ?\na = \"p\" * 3\nprint(a)",
+        "2": "Which function finds out the Variable type in Python ?",
+        "3": "This keyword is used in Python functions to return a value back to the caller ?",
+        "4": "Which of the following is a print Function in Python ?",
+        "5": "Which is a type of expression that is used to make decisions in code, typically found in if statements ?",
+        "6": "Which is a special method in Python classes that gets called when an object is created.?",
+        "7": "Which this term is used to refer to a block of code that can be executed when an error occurs ?",
+        "8": "Which Python data type represents textual data. ?",
+        "9": "which is a method that you would call on a file object to close the file stream?",
+        "10": "What will be the output of the following Python code snippet? ?{\n  List<int> list = [1, 2, 3, 4, 5];\n  List<int> result = list.sublist(1, 4).reversed.toList();\n [4, 3, 2]\nprint(result);}"
+    },
+    {
+        "1": {
+            "a": "pp",
+            "b": "ppp",
+            "c": "3p",
+            "d": "p3"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "3": {
+            "a": "func",
+            "b": "def",
+            "c": "return",
+            "d": "function"
+        },
+        "4": {
+            "a": "cout",
+            "b": "print",
+            "c": "println",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "Boolean",
+            "c": "type",
+            "d": "find"
+        },
+        "6": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "__init__()"
+        },
+        "7": {
+            "a": "typedef",
+            "b": "try",
+            "c": "type",
+            "d": "find"
+        },
+        "8": {
+            "a": "func",
+            "b": "str" ,
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "close()",
+            "d": "find"
+        },
+        "10": {
+            "a": "[4, 3,2]",
+            "b": "SyntaxError",
+            "c":"[5, 4,3]",
+            "d": "[]"
+        }
+    },
+    {
+        "1": "ppp",
+        "2": "type",
+        "3": "def",
+        "4": "print",
+        "5": "Boolean",
+        "6": "__init__()",
+        "7": "try",
+        "8": "str",
+        "9": "close()",
+        "10": "[4, 3,2]"
+    }
+]

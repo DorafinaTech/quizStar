@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What command is used to display the current directory in Linux?",
+    "2": "How do you list all files, including hidden files, in a directory ?",
+    "3": "What is the command to display the contents of a file in Linux?",
+    "4": "Which command is used to change permissions of a file in Linux?",
+    "5": "How can you redirect the output of a command to a file in Linux?",
+    "6": "What is the command for changing the ownership of a file?",
+    "7": "How do you search for a specific text within files in Linux?",
+    "8": "What command is used for viewing the manual of a command in Linux?",
+    "9": "How do you compress files using gzip in Linux?",
+    "10": "What is the command to view all running processes in Linux?"
+  },
+  {
+    "1": {
+      "a": "pp",
+      "b": "pwd",
+      "c": "3p",
+      "d": "p3"
+    },
+    "2": {
+      "a": "ls -a",
+      "b": "typeof",
+      "c": "type",
+      "d": "find"
+    },
+    "3": {
+      "a": "func",
+      "b": "def",
+      "c": "return",
+      "d": "(concatenate and display files)"
+    },
+    "4": {
+      "a": "cout",
+      "b": "print",
+      "c": "(Change Mode)",
+      "d": "stderr"
+    },
+    "5": {
+      "a": "typedef",
+      "b": "ls > files.txt",
+      "c": "type",
+      "d": "find"
+    },
+    "6": {
+      "a": "func",
+      "b": "def",
+      "c": "void",
+      "d": "(Change Owner)"
+    },
+    "7": {
+      "a": "(Global Regular Expression Print)",
+      "b": "try",
+      "c": "type",
+      "d": "find"
+    },
+    "8": {
+      "a": "func",
+      "b": "str" ,
+      "c": "void",
+      "d": "(Manual)"
+    },
+    "9": {
+      "a": "gzip filename",
+      "b": "typeof",
+      "c": "close()",
+      "d": "find"
+    },
+    "10": {
+      "a": "ps -aux",
+      "b": "typeOf",
+      "c":"[5, 4,3]",
+      "d": "[]"
+    }
+  },
+  {
+    "1": "pwd",
+    "2": "ls -a",
+    "3": "(concatenate and display files)",
+    "4": "(Change Mode)",
+    "5": "ls > files.txt",
+    "6": "(Change Owner)",
+    "7": "(Global Regular Expression Print)",
+    "8": "(Manual)",
+    "9": "gzip filename",
+    "10": "ps -aux"
+  }
+]

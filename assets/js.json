@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is the correct syntax for referring to an external script called \"app.js\"?",
+        "2": "How do you write a conditional statement for executing some code if \"i\" is NOT equal to 5?",
+        "3": "How do you create a function in JavaScript?",
+        "4": "How do you call a function named \"myFunction\"?",
+        "5": "How to write an IF statement in JavaScript?",
+        "6": "How can you add a comment in JavaScript?",
+        "7": "What is the correct way to write a JavaScript array?",
+        "8": "How do you round the number 7.25, to the nearest integer?",
+        "9": "How do you find the number with the highest value of x and y?",
+        "10": "What is the correct JavaScript syntax to change the content of the HTML element below:<p id=\"demo\">This is a demonstration.</p>?"
+    },
+    {
+        "1": {
+            "a": "func",
+            "b": "<script src=\"app.js\"></script>",
+            "c": "void",
+            "d": "int"
+        },
+        "2": {
+            "a": "if else",
+            "b": "typeof",
+            "c": "if (i != 5)",
+            "d": "find"
+        },
+        "3": {
+            "a": "func",
+            "b": "function myFunction() {}",
+            "c": "void",
+            "d": "function"
+        },
+        "4": {
+            "a": "cout",
+            "b": "myFunction()",
+            "c": "println",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "if (condition) {}",
+            "d": "find"
+        },
+        "6": {
+            "a": "func",
+            "b": "// This is a single-line comment",
+            "c": "void",
+            "d": "function"
+        },
+        "7": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "var colors = [\"red\", \"green\", \"blue\"];",
+            "d": "find"
+        },
+        "8": {
+            "a": "func",
+            "b": "Math.round(7.25)",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "Math.max(x, y)",
+            "d": "find"
+        },
+        "10": {
+            "a": "func",
+            "b": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "1": "<script src=\"app.js\"></script>",
+        "2": "if (i != 5)",
+        "3": "function myFunction() {}",
+        "4": "myFunction()",
+        "5": "if (condition) {}",
+        "6": "// This is a single-line comment",
+        "7": "var colors = [\"red\", \"green\", \"blue\"];",
+        "8": "Math.round(7.25)",
+        "9": "Math.max(x, y)",
+        "10": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";"
+    }
+]
